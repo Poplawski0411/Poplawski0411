@@ -7,4 +7,4 @@ Creating some stupid stuff...</p>
 You can check out some of my projects on <a href="https://enhancedigital.nl">EnhanceDigital</a>
 
 ### Skills that I think I know...
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,react,html,tailwindcss,css,mysql,postgres,phpstorm,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,js,react,html,tailwindcss,css,mysql,postgres,phpstorm,vscode&theme=dark)](https://skillicons.dev)
